@@ -1,0 +1,106 @@
+html {
+    background-color: rgb(0, 195, 255)
+}
+
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 87%;
+}
+
+.container {
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(13, 0, 255);
+}
+
+header h1 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 165%;
+}
+
+header p {
+    margin: 0;
+}
+
+.content-area {
+    border-top: 3px solid rgb(0, 0, 0);
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
+
+.main {
+    width: 70%;
+    float: left;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.support {
+    width: 30%;
+    float: left;
+    background-color: rgba(193, 244, 164, 0.919);
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+    font-size: 85%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.fix {
+    clear: both;
+}
+
+p {
+    color: rgb(36, 5, 195);
+}
+
+footer p {
+    color: orange;
+    text-align: center;
+    font-size: 85%;
+    color: rgb(70, 70, 70);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: rgb(127, 227, 240);
+    text-align: center;
+    font-size: 165%;
+    font-weight: normal;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header p {
+    color: rgb(211, 87, 245);
+}
+
+aside {
+    color: rgb(0, 224, 254);
+}
+
+header p span {
+    color: rgb(255, 0, 128);
+}
+
+.highlight {
+    color: rgb(255, 0, 0);
+    background-color: rgb(251, 255, 0);
+}
+
+.brand-color {
+    color: rgb(255, 0, 0);
+    background-color: rgb(34, 0, 255);
+}

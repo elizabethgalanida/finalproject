@@ -1,0 +1,21 @@
+h1 {
+    color:orange;
+    text-align: center;
+}
+
+p {
+    color:green;
+}
+
+header p {
+    color:red;
+}
+
+header p span {
+    color:blue;
+}
+
+.color {
+    background-color:yellow;
+}
+
